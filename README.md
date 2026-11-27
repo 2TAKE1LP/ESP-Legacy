@@ -1,7 +1,3 @@
-This LUA script is supported only through Lexis.re - Scripts. Open the menu with INS, you'll figure out the rest
-Update v0.0.1 — What's new?
-• Added support for 1080p, 2K, and 4K monitors.
-28.11.2026 
 Bubblewrap Menu (1.0.1)
 Added a clean Themes system with 6 built-in presets and custom image theme support from themes/ (.jpg, .jpeg, .png, .webp, .bmp)
 Added Player & Vehicle ESP with 8 skeleton styles, bone outlines, RGB mode, boxes, HP/Armor bars, names, and distance
