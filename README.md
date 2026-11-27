@@ -6,3 +6,4 @@ Added AimBot UI/tuning (currently not working)
 Added Trigger Bot with player model detection, shot delay, cooldown, range limit, aiming-only toggle, vehicle ignore, and visibility check
 Added draggable Hotkey HUD, resolution presets, cursor modes, per-frame entity caching, and auto-generated .cfg files with cleanup on unload
 ESP drawing optimization is not added yet
+Support: Lexis Menu
